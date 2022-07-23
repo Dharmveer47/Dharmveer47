@@ -9,7 +9,7 @@ I'm a passionate full stack web developer from India. My passion for software li
 
 
 Link to my [Portfolio Website](https://dharmveer-singh.netlify.app/).
-https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/figma.svg
+
 
 ## 🚀 Languages and Tools:
 
